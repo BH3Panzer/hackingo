@@ -5,6 +5,7 @@ import javax.imageio.ImageIO;
 import net.sourceforge.tess4j.*;
 import java.sql.*;
 import java.util.*;
+import
 
 public class DuolingoAI {
     private static Connection connect() {
